@@ -1,0 +1,10 @@
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\bin\Debug\GOLStartUpTemplate1.exe.config
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\bin\Debug\GOLStartUpTemplate1.exe
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\bin\Debug\GOLStartUpTemplate1.pdb
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.csprojAssemblyReference.cache
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.Form1.resources
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.Properties.Resources.resources
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.csproj.GenerateResource.cache
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.csproj.CoreCompileInputs.cache
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.exe
+C:\Users\mcken\source\repos\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.pdb
